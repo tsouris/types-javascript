@@ -27,3 +27,4 @@ const string3 = "New adidas shoes available now";
 console.log(string1.includes(blackListWord1));
 console.log(string2.includes(blackListWord2));
 console.log(string3.includes(blackListWord1, blackListWord2));
+
